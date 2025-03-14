@@ -13,4 +13,5 @@ Identify passes, interceptions, shots, and goals.
 Generate real-time text commentary.
 
 📄 Output – Prints commentary and saves annotated video.
+<img width="983" alt="Screenshot 2025-03-14 at 4 23 53 PM" src="https://github.com/user-attachments/assets/d5772fe8-6c48-4e53-a5e7-3afbe0af6edf" />
 
